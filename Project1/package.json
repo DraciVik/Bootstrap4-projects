@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap4-projects",
+  "version": "1.0.0",
+  "description": "Projects for practicing bootstrap4",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "DraciVik",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
